@@ -1,0 +1,27 @@
+/************************/
+/******* general ********/
+/************************/
+
+* {
+    margin: 0;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;
+    font-family: 'Roboto', 'Sans-serif';
+    font-size: 16px;
+    font-weight: 300;
+}
+
+/* body {
+    filter: blur(2px);
+} */
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
